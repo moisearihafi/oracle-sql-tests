@@ -21,6 +21,8 @@ The relationships are structured as follows:
 3. **Students**: Stores student information (e.g., `student_id`, `student_name`).
 4. **Enrollments**: Links students and subjects, recording enrollment dates (e.g., `student_id`, `subject_id`, `enroll_date`).
 
+##SCREENSHOT of TEACHERS TABLE
+![Student](https://github.com/user-attachments/assets/255fc2d2-3545-4e18-a142-7aed603acbc0)
 
 
 ## SQL Schema
