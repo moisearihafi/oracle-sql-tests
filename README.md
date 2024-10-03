@@ -23,6 +23,14 @@ The relationships are structured as follows:
 
 ##SCREENSHOT of TEACHERS TABLE
 ![Student](https://github.com/user-attachments/assets/255fc2d2-3545-4e18-a142-7aed603acbc0)
+##SCREENSHOT of SUBJECTS TABLE
+![Student](https://github.com/user-attachments/assets/6ce5487d-69f2-4e76-962e-cc25e0b44ac3)
+##SCREENSHOT of STUDENTS TABLE
+![Student](https://github.com/user-attachments/assets/b4f07e69-b796-4591-b70b-a5cc784e440e)
+##SCREENSHOT of ENROLLMENTS
+![Student](https://github.com/user-attachments/assets/98b62290-6f9f-4a1a-8f66-888ab1439ab8)
+
+
 
 
 ## SQL Schema
