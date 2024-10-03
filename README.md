@@ -1,4 +1,27 @@
 # oracle-sql-tests
+# School Database System
+
+## Project Description
+
+This project is a simple school database system that manages teachers, subjects, students, and their enrollments. The system organizes the relationships between:
+- **Teachers**: who teach subjects.
+- **Subjects**: which are assigned to teachers.
+- **Students**: who enroll in different subjects.
+
+The relationships are structured as follows:
+- One-to-Many relationship between **Teachers** and **Subjects**.
+- Many-to-Many relationship between **Students** and **Subjects** using the **Enrollments** table.
+
+## Database Structure
+
+### Tables:
+
+1. **Teachers**: Stores teacher information (e.g., `teacher_id`, `teacher_name`).
+2. **Subjects**: Stores subject information (e.g., `subject_id`, `subject_name`, `teacher_id`).
+3. **Students**: Stores student information (e.g., `student_id`, `student_name`).
+4. **Enrollments**: Links students and subjects, recording enrollment dates (e.g., `student_id`, `subject_id`, `enroll_date`).
+
+
 
 ## SQL Schema
 
