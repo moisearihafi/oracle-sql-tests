@@ -22,13 +22,50 @@ The relationships are structured as follows:
 4. **Enrollments**: Links students and subjects, recording enrollment dates (e.g., `student_id`, `subject_id`, `enroll_date`).
 
 ##SCREENSHOT of TEACHERS TABLE
+
 ![Student](https://github.com/user-attachments/assets/255fc2d2-3545-4e18-a142-7aed603acbc0)
+
+
 ##SCREENSHOT of SUBJECTS TABLE
+
 ![Student](https://github.com/user-attachments/assets/6ce5487d-69f2-4e76-962e-cc25e0b44ac3)
+
+
 ##SCREENSHOT of STUDENTS TABLE
+
 ![Student](https://github.com/user-attachments/assets/b4f07e69-b796-4591-b70b-a5cc784e440e)
+
+
+
 ##SCREENSHOT of ENROLLMENTS
+
 ![Student](https://github.com/user-attachments/assets/98b62290-6f9f-4a1a-8f66-888ab1439ab8)
+
+
+##RELATIONSHIPS
+
+![Relationships](https://github.com/user-attachments/assets/669dcddc-8508-49a5-a329-c141affdc55d)
+
+
+##SELECTING (JOINS)
+
+![select](https://github.com/user-attachments/assets/e7f823ee-3e2b-49b7-ac6a-4098b6dd335d)
+
+##UPDATE THE RECORDS
+
+![update](https://github.com/user-attachments/assets/6c6ff853-7fd8-4dff-a471-35cba35b3589)
+
+##INSERTING RECORDS
+
+![insert](https://github.com/user-attachments/assets/1b96bfeb-1c3c-462f-81d5-8cc2eb57f880)
+
+
+##DELETING A RECORD
+
+![delete](https://github.com/user-attachments/assets/10ce7aac-f0a1-4737-b7b8-792361de94f7)
+
+
+
 
 
 
