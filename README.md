@@ -36,6 +36,7 @@ CREATE TABLE teachers (
     
 );
 
+##TEACHERS TABLE
 --create subjects table
 CREATE TABLE subjects (
     subject_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -44,12 +45,14 @@ CREATE TABLE subjects (
     FOREIGN KEY (teacher_id) REFERENCES teachers(teacher_id) ON DELETE SET NULL
 );
 
--- Create students table
+ ##STUDENTS TABLE
+ -- Create students table
 CREATE TABLE students (
     student_id INT AUTO_INCREMENT PRIMARY KEY,
     student_name VARCHAR(50) NOT NULL,
 
 );
+##ENROLLMENS TABLE
 - Create enrollments table (many-to-many relationship)
 CREATE TABLE enrollments (
     student_id INT,
